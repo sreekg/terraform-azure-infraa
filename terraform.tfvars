@@ -1,0 +1,6 @@
+location             = "East US"
+resource_group_name  = "rg-terraform-infra"
+vnet_name            = "vnet-demo"
+subnet_name          = "subnet-demo"
+vm_admin_username    = "azureuser"
+vm_admin_password    = "YourP@ssw0rd123!"
